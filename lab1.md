@@ -14,4 +14,5 @@ touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 
 mkdir friends family work
 
-<img width="1086" alt="Screenshot 2025-03-19 at 12 10 35 AM" src="https://github.com/user-attachments/assets/be0b1362-1d6b-40b4-b38c-c8d4cdb49735" />
+<img width="1086" alt="touch" src="https://github.com/user-attachments/assets/d6720e92-fc7b-4eb9-b87c-4c29f644d62b" />
+
