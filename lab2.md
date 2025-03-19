@@ -1,4 +1,4 @@
-Lab number 3-4
+Lab Number 3-4
 
 Problem:- View the gedit man page.
 Use the man -k ext4 command to find the command to tune
