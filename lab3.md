@@ -7,9 +7,9 @@ line. Preserve only the first four characters of the first column.
 
 Solution:
 
-lab_file="editing_final_lab.txt"
+       lab_file="editing_final_lab.txt"
 
-vim "$lab_file"
+       vim "$lab_file"
 
 
 Implementation:-
