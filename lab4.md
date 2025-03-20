@@ -12,29 +12,29 @@ group. Confirm that the umask is changed.
 
 Solution:
 
-sudo mkdir /home/consultants
+        sudo mkdir /home/consultants
 
-sudo groupadd consultants
+        sudo groupadd consultants
 
-sudo chown :consultants /home/consultants
+        sudo chown :consultants /home/consultants
 
-sudo chmod g+w /home/consultants
+        sudo chmod g+w /home/consultants
 
-sudo chmod 770 /home/consultants
+        sudo chmod 770 /home/consultants
 
-sudo useradd operator1
+        sudo useradd operator1
 
-sudo nano /home/operator1/.bashrc
+        sudo nano /home/operator1/.bashrc
 
-sudo su - operator1
+        sudo su - operator1
 
-umask
+        umask
 
-touch testfile
+        touch testfile
 
-ls -l testfile
+        ls -l testfile
 
-exit
+        exit
 
 Implementation:-
 
