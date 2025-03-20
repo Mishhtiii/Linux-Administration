@@ -10,9 +10,9 @@ command to create all three subdirectories at the same time.
 
 solution:-
 
-touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
+        touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 
-mkdir friends family work
+        mkdir friends family work
 
 Implementation:-
 
